@@ -1,0 +1,22 @@
+.hero {
+    background-color: #57d8d8;
+}
+
+.edu {
+    background-color: #57d8d8;
+}
+
+.work {
+    background-color: #92d1d1;
+}
+
+.my-img{
+
+    clip-path: circle(43%);
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
